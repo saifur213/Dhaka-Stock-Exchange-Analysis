@@ -1,0 +1,17 @@
+form{
+    border: 5px solid black;
+    margin-bottom: 2px;
+    padding: 20px;
+}
+label{
+    font-size: 25px;
+    color: brown;
+}
+input{
+    height: 20px;
+    width: 200px;
+    background-color: violet;
+}
+#id_textarea{
+    background-color: skyblue;
+}

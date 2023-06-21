@@ -1,0 +1,39 @@
+{% extends 'common_code/base.html'%}
+{% block title %}Machine Learning {% endblock title %}
+{% block body %}
+
+{% load static %}
+        {% comment %} <h1>{{thr}}</h1> {% endcomment %}
+
+        {% if thr %}
+        <table class="table table-striped">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Trading Code</th>
+                <th scope="col">Date</th>
+                <th scope="col">Sponsor/Director</th>
+                <th scope="col">Govt</th>
+                <th scope="col">Institute</th>
+                <th scope="col">Foreign</th>
+                <th scope="col">Public</th>
+            </tr>
+
+            {% for th in thr%}
+            <tr>
+                <td scope="row">{{th.ID}}</td>
+                <td>{{th.TradingCode}}</td>
+                <td>{{th.Date}}</td>
+                <td>{{th.SponsorDirector}}</td>
+                <td>{{th.Govt}}</td>
+                <td>{{th.Institute}}</td>
+                <td>{{th.ForeignNum}}</td>
+                <td>{{th.Public}}</td>
+
+            </tr>
+            {% endfor %}
+        </table>
+        {% else %}
+        <h3>There is no teacher</h3>
+        {% endif %}
+        
+{% endblock %}  

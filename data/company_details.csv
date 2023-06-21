@@ -1,0 +1,412 @@
+id,Company Name,Trading Code,Scrip Code,Sector
+1,aamra networks limited,AAMRANET,22649,IT Sector
+2,aamra technologies limited,AAMRATECH,22647,IT Sector
+3,AB Bank 1st Mutual fund,ABB1STMF,12189,Mutual Funds
+4,AB Bank Limited,ABBANK,11101,Bank
+5,AB Bank Perpetual Bond,ABBLPBOND,26013,Corporate Bond
+6,Aman Cotton Fibrous Limited,ACFL,17477,Textile
+7,ACI  Limited,ACI,18455,Pharmaceuticals & Chemicals
+8,ACI Formulations Limited,ACIFORMULA,18480,Pharmaceuticals & Chemicals
+9,The ACME Laboratories Limited,ACMELAB,18491,Pharmaceuticals & Chemicals
+10,ACME Pesticides Limited,ACMEPL,18496,Pharmaceuticals & Chemicals
+11,Active Fine Chemicals Limited,ACTIVEFINE,18483,Pharmaceuticals & Chemicals
+12,ADN Telecom Limited,ADNTEL,22651,IT Sector
+13,Advent Pharma Limited,ADVENT,18492,Pharmaceuticals & Chemicals
+14,AFC Agro Biotech Ltd.,AFCAGRO,18489,Pharmaceuticals & Chemicals
+15,Aftab Automobiles Limited,AFTABAUTO,13201,Engineering
+16,Agni Systems Ltd.,AGNISYSL,22645,IT Sector
+17,Agrani Insurance Co. Ltd.,AGRANINS,25722,Insurance
+18,AIBL 1st Islamic Mutual Fund,AIBL1STIMF,12183,Mutual Funds
+19,AIBL Mudaraba Perpetual Bond,AIBLPBOND,26005,Corporate Bond
+20,Alif Industries Limited,AIL,17436,Textile
+21,Al-Haj Textile Mills Limited,AL-HAJTEX,17401,Textile
+22,Al-Arafah Islami Bank Ltd,ALARABANK,11115,Bank
+23,Alif Manufacturing Company Ltd.,ALIF,17444,Textile
+24,Alltex Industries Ltd.,ALLTEX,17440,Textile
+25,Aman Feed Limited,AMANFEED,99641,Miscellaneous
+26,Ambee Pharmaceuticals  Ltd.,AMBEEPHA,18451,Pharmaceuticals & Chemicals
+27,Agricultural Marketing Company Ltd. (Pran),AMCL(PRAN),14277,Food & Allied
+28,Anlimayarn Dyeing Ltd.,ANLIMAYARN,17441,Textile
+29,Anwar Galvanizing Ltd.,ANWARGALV,13221,Engineering
+30,Associated Oxygen Limited,AOL,15321,Fuel & Power
+31,Apex Foods Limited,APEXFOODS,14254,Food & Allied
+32,Apex Footwear Limited.,APEXFOOT,23619,Tannery Industries
+33,Apex Spinning & Knitting Mills Limited,APEXSPINN,17421,Textile
+34,Apex Tannery Limited,APEXTANRY,23601,Tannery Industries
+35,Appollo Ispat Complex Limited,APOLOISPAT,13233,Engineering
+36,APSCL Non-Convertible and Fully Redeemable Coupon Bearing Bond,APSCLBOND,26004,Corporate Bond
+37,Aramit Limited,ARAMIT,99602,Miscellaneous
+38,Aramit Cement Limited,ARAMITCEM,21633,Cement
+39,Argon Denims Limited,ARGONDENIM,17456,Textile
+40,Asia Insurance Limited,ASIAINS,25740,Insurance
+41,Asia Pacific General Insurance Co. Ltd.,ASIAPACINS,25729,Insurance
+42,Asian Tiger Sandhani Life Growth Fund,ATCSLGF,12195,Mutual Funds
+43,Atlas Bangladesh Ltd.,ATLASBANG,13212,Engineering
+44,Aziz Pipes Ltd.,AZIZPIPES,13202,Engineering
+45,Bangas Ltd.,BANGAS,14257,Food & Allied
+46,Bank Asia Ltd.,BANKASIA,11127,Bank
+47,Baraka Power Limited,BARKAPOWER,15313,Fuel & Power
+48,Bata Shoe Company (Bangladesh) Limited,BATASHOE,23603,Tannery Industries
+49,British American Tobacco Bangladesh Company Limited,BATBC,14259,Food & Allied
+50,Bay Leasing & Investment Limited,BAYLEASING,11148,Financial Institutions
+51,Bangladesh Building Systems Ltd.,BBS,13232,Engineering
+52,BBS Cables Limited,BBSCABLES,13242,Engineering
+53,Bangladesh Autocars Ltd.,BDAUTOCA,13213,Engineering
+54,BDCOM Online Ltd.,BDCOM,22643,IT Sector
+55,Bangladesh Finance Limited,BDFINANCE,11142,Financial Institutions
+56,Bangladesh Lamps Limited,BDLAMPS,13204,Engineering
+57,Bangladesh Services Ltd.,BDSERVICE,20552,Travel & Leisure
+58,Bd.Thai Aluminium Ltd.,BDTHAI,13219,Engineering
+59,BD Thai Food & Beverage Limited,BDTHAIFOOD,14297,Food & Allied
+60,Bangladesh Welding Electrodes Ltd.,BDWELDING,15305,Fuel & Power
+61,Beach Hatchery Ltd.,BEACHHATCH,14291,Food & Allied
+62,Beacon Pharmaceuticals PLC,BEACONPHAR,18482,Pharmaceuticals & Chemicals
+63,Bengal Windsor Thermoplastics Ltd.,BENGALWTL,13231,Engineering
+64,Berger Paints Bangladesh Ltd.,BERGERPBL,99638,Miscellaneous
+65,Beximco Green Sukuk Al Istisna'a,BEXGSUKUK,26008,Corporate Bond
+66,Bangladesh Export Import Company Ltd.,BEXIMCO,99613,Miscellaneous
+67,Bangladesh General Insurance Company Ltd.,BGIC,25701,Insurance
+68,Bangladesh Industrial Fin. Co. Ltd.,BIFC,11136,Financial Institutions
+69,Bangladesh National Insurance Company Limited,BNICL,25747,Insurance
+70,Bashundhara Paper Mills Limited,BPML,19512,Paper & Printing
+71,Baraka Patenga Power Limited,BPPL,15324,Fuel & Power
+72,BRAC Bank Ltd.,BRACBANK,11138,Bank
+73,Bangladesh Shipping Corporation,BSC,99604,Miscellaneous
+74,Bangladesh Submarine Cable Company Limited,BSCCL,27002,Telecommunication
+75,Bangladesh Steel Re-Rolling Mills Limited,BSRMLTD,13238,Engineering
+76,BSRM Steels Limited,BSRMSTEEL,13227,Engineering
+77,Beximco Pharmaceuticals Ltd.,BXPHARMA,18453,Pharmaceuticals & Chemicals
+78,Beximco Synthetics Ltd.,BXSYNTH,18470,Pharmaceuticals & Chemicals
+79,CAPM BDBL Mutual Fund 01,CAPMBDBLMF,12199,Mutual Funds
+80,CAPM IBBL Islamic Mutual Fund,CAPMIBBLMF,12202,Mutual Funds
+81,City Bank Perpetual Bond,CBLPBOND,26011,Corporate Bond
+82,Central Insurance Company Ltd.,CENTRALINS,25709,Insurance
+83,Central Pharmaceuticals Limited,CENTRALPHL,18488,Pharmaceuticals & Chemicals
+84,The City Bank Ltd.,CITYBANK,11102,Bank
+85,City General Insurance Co. Ltd.,CITYGENINS,25734,Insurance
+86,Chartered Life Insurance Company Limited,CLICL,25755,Insurance
+87,C & A Textiles Limited,CNATEX,17465,Textile
+88,Confidence Cement Ltd.,CONFIDCEM,21621,Cement
+89,Continental Insurance Ltd.,CONTININS,25735,Insurance
+90,Coppertech Industries Limited,COPPERTECH,13247,Engineering
+91,Crown Cement PLC.,CROWNCEMNT,21644,Cement
+92,Crystal Insurance Company Limited,CRYSTALINS,25749,Insurance
+93,CVO Petrochemical Refinery Limited,CVOPRL,14269,Fuel & Power
+94,The Dacca Dyeing & Manufacturing Co.Ltd.,DACCADYE,17449,Textile
+95,Daffodil Computers Ltd.,DAFODILCOM,22646,IT Sector
+96,DBH Finance PLC.,DBH,20621,Financial Institutions
+97,DBH First Mutual Fund,DBH1STMF,12174,Mutual Funds
+98,Dhaka Bank Perpetual Bond,DBLPBOND,26012,Corporate Bond
+99,Aramit Cement Ltd.(Deb-14%),DEBARACEM,91633,Debenture
+100,Bangladesh Luggage Ind. Ltd.(Deb-14%),DEBBDLUGG,91625,Debenture
+101,BD Welding Electrodes Ltd.(Deb-15%),DEBBDWELD,91305,Debenture
+102,Bangladesh Zipper Ind. Ltd.(Deb-14%),DEBBDZIPP,91432,Debenture
+103,Beximco Denims Ltd.(Deb-14%),DEBBXDENIM,91433,Debenture
+104,Beximco Fisheries Ltd.(Deb-14%),DEBBXFISH,91273,Debenture
+105,Beximco Knitting Ltd.(Deb-14%),DEBBXKNI,91422,Debenture
+106,Beximco Textiles Ltd.(Deb-14%),DEBBXTEX,91431,Debenture
+107,Delta Life Insurance Company Ltd.,DELTALIFE,25716,Insurance
+108,Delta Spinners Ltd.,DELTASPINN,17427,Textile
+109,Dhaka Electric Supply Company Ltd.,DESCO,15307,Fuel & Power
+110,Deshbandhu Polymer Limited,DESHBANDHU,13229,Engineering
+111,Desh General Insurance Company Limited,DGIC,25750,Insurance
+112,Dhaka Bank Ltd.,DHAKABANK,11118,Bank
+113,Dhaka Insurance Limited,DHAKAINS,25744,Insurance
+114,Dominage Steel Building Systems Limited,DOMINAGE,13249,Engineering
+115,Doreen Power Generations and Systems Limited,DOREENPWR,15319,Fuel & Power
+116,Desh Garments Ltd.,DSHGARME,17415,Textile
+117,Dragon Sweater and Spinning Limited,DSSL,17471,Textile
+118,Dulamia Cotton Spinning Mills Ltd.,DULAMIACOT,17416,Textile
+119,Dutch-Bangla Bank Ltd.,DUTCHBANGL,11121,Bank
+120,Eastern Insurance Company Ltd.,EASTERNINS,25705,Insurance
+121,Eastland Insurance Company Ltd.,EASTLAND,25708,Insurance
+122,Eastern Lubricants Blenders Limited,EASTRNLUB,15303,Fuel & Power
+123,Eastern Bank Ltd.,EBL,11112,Bank
+124,EBL First Mutual Fund,EBL1STMF,12169,Mutual Funds
+125,EBL NRB Mutual Fund,EBLNRBMF,12186,Mutual Funds
+126,Eastern Cables Ltd.,ECABLES,13206,Engineering
+127,eGeneration Limited,EGEN,22652,IT Sector
+128,Eastern Housing Limited,EHL,20620,Services & Real Estate
+129,Express Insurance Limited,EIL,25748,Insurance
+130,Emerald Oil Industries Ltd.,EMERALDOIL,14295,Food & Allied
+131,Envoy Textiles Limited,ENVOYTEX,17455,Textile
+132,Energypac Power Generation Limited,EPGL,15322,Fuel & Power
+133,Esquire Knit Composite PLC,ESQUIRENIT,17481,Textile
+134,Evince Textiles Limited,ETL,17472,Textile
+135,EXIM Bank 1st Mutual Fund,EXIM1STMF,12194,Mutual Funds
+136,Export Import (Exim) Bank of Bangladesh Limited,EXIMBANK,11129,Bank
+137,Familytex (BD) Limited,FAMILYTEX,17457,Textile
+138,Far Chemical Industries Limited,FARCHEM,18490,Pharmaceuticals & Chemicals
+139,Fareast Finance & Investment Limited,FAREASTFIN,28023,Financial Institutions
+140,Fareast Islami Life Insurance Co. Ltd.,FAREASTLIF,25725,Insurance
+141,FAS Finance & Investment Limited,FASFIN,11146,Financial Institutions
+142,First Bangladesh Fixed Income Fund,FBFIF,12191,Mutual Funds
+143,Federal Insurance Company Ltd.,FEDERALINS,25713,Insurance
+144,Far East Knitting & Dyeing Industries Limited,FEKDIL,17462,Textile
+145,Fine Foods Limited,FINEFOODS,14292,Food & Allied
+146,First Finance Limited,FIRSTFIN,11124,Financial Institutions
+147,First Security Islami Bank Limited,FIRSTSBANK,11147,Bank
+148,Fortune Shoes Limited,FORTUNE,23637,Tannery Industries
+149,Fu-Wang Ceramic Industries Ltd.,FUWANGCER,24632,Ceramics Sector
+150,Fu Wang Food Ltd.,FUWANGFOOD,14286,Food & Allied
+151,GBB Power Ltd.,GBBPOWER,15315,Fuel & Power
+152,Gemini Sea Food Ltd.,GEMINISEA,14262,Food & Allied
+153,Genex Infosys Limited,GENEXIL,22650,IT Sector
+154,Generation Next Fashions Limited,GENNEXT,17454,Textile
+155,Golden Harvest Agro Industries Ltd.,GHAIL,14294,Food & Allied
+156,Global Heavy Chemicals Limited,GHCL,18485,Pharmaceuticals & Chemicals
+157,Global Islami Bank PLC,GIB,11153,Bank
+158,ICB AMCL CMSF Golden Jubilee Mutual Fund,GLDNJMF,12204,Mutual Funds
+159,Global Insurance Company Ltd.,GLOBALINS,25723,Insurance
+160,Golden Son Ltd.,GOLDENSON,13226,Engineering
+161,Grameenphone Ltd.,GP,27001,Telecommunication
+162,GPH Ispat Ltd.,GPHISPAT,13230,Engineering
+163,GQ Ball Pen Industries Ltd.,GQBALLPEN,99605,Miscellaneous
+164,Grameen One : Scheme Two,GRAMEENS2,12167,Mutual Funds
+165,Green Delta Mutual Fund,GREENDELMF,12179,Mutual Funds
+166,Green Delta Insurance Ltd.,GREENDELT,25702,Insurance
+167,GSP Finance Company (Bangladesh) Limited,GSPFINANCE,11149,Financial Institutions
+168,Hakkani Pulp & Paper Mills Ltd.,HAKKANIPUL,19510,Paper & Printing
+169,Heidelberg Cement Bangladesh Ltd.,HEIDELBCEM,21614,Cement
+170,Hamid Fabrics Limited,HFL,17464,Textile
+171,H.R.Textile Ltd.,HRTEX,17442,Textile
+172,Hwa Well Textiles (BD) Limited,HWAWELLTEX,17461,Textile
+173,IBBL 2nd Perpetual Mudaraba Bond,IBBL2PBOND,26006,Corporate Bond
+174,IBBL Mudaraba Perpetual Bond,IBBLPBOND,26001,Corporate Bond
+175,The IBN SINA  Pharmaceutical Industry PLC,IBNSINA,18464,Pharmaceuticals & Chemicals
+176,Indo-Bangla Pharmaceuticals Limited,IBP,18494,Pharmaceuticals & Chemicals
+177,Investment Corporation Of Bangladesh,ICB,12151,Financial Institutions
+178,ICB AMCL Third NRB Mutual Fund,ICB3RDNRB,12177,Mutual Funds
+179,ICB AMCL First Agrani Bank Mutual Fund,ICBAGRANI1,12201,Mutual Funds
+180,ICB AMCL Second Mutual Fund,ICBAMCL2ND,12170,Mutual Funds
+181,ICB Employees Provident MF 1: Scheme 1,ICBEPMF1S1,12171,Mutual Funds
+182,ICB Islamic Bank Limited,ICBIBANK,11110,Bank
+183,ICB AMCL Sonali Bank Limited 1st Mutual Fund,ICBSONALI1,12193,Mutual Funds
+184,Islami Commercial Insurance Company Limited,ICICL,25756,Insurance
+185,IDLC Finance Ltd.,IDLC,11111,Financial Institutions
+186,IFAD Autos Limited,IFADAUTOS,13237,Engineering
+187,IFIC Bank PLC,IFIC,11103,Bank
+188,IFIC Bank 1st Mutual Fund,IFIC1STMF,12175,Mutual Funds
+189,IFIL Islamic Mutual Fund-1,IFILISLMF1,12181,Mutual Funds
+190,International Leasing & Financial Services Ltd.,ILFSL,11143,Financial Institutions
+191,Imam Button Industries Ltd.,IMAMBUTTON,18474,Pharmaceuticals & Chemicals
+192,Index Agro Industries Limited,INDEXAGRO,99643,Miscellaneous
+193,Intech  Limited,INTECH,22644,IT Sector
+194,Intraco Refueling Station Limited,INTRACO,15320,Fuel & Power
+195,IPDC Finance Limited,IPDC,11137,Financial Institutions
+196,Islami Bank Bangladesh Limited,ISLAMIBANK,11104,Bank
+197,Islamic Finance & Investment Ltd.,ISLAMICFIN,11133,Financial Institutions
+198,Islami Insurance Bangladesh Limited,ISLAMIINS,25742,Insurance
+199,Information Services Network Ltd.,ISNLTD,22641,IT Sector
+200,IT Consultants Limited,ITC,22648,IT Sector
+201,Jamuna Bank Ltd.,JAMUNABANK,11134,Bank
+202,Jamuna Oil Company Limited,JAMUNAOIL,15309,Fuel & Power
+203,Janata Insurance Company Ltd.,JANATAINS,25706,Insurance
+204,JMI Hospital Requisite Manufacturing Limited,JHRML,99644,Pharmaceuticals & Chemicals
+205,JMI Syringes & Medical Devices Ltd.,JMISMDL,18487,Pharmaceuticals & Chemicals
+206,Jute Spinners Ltd.,JUTESPINN,16355,Jute
+207,Karnaphuli Insurance Company Ltd.,KARNAPHULI,25710,Insurance
+208,Kay & Que (Bangladesh) Ltd.,KAY&QUE,13222,Engineering
+209,Khan Brothers PP Woven Bag Industries Limited,KBPPWBIL,99639,Miscellaneous
+210,KDS Accessories Limited,KDSALTD,13240,Engineering
+211,Keya Cosmetics Ltd.,KEYACOSMET,18477,Pharmaceuticals & Chemicals
+212,Kohinoor Chemicals Company (Bangladesh) Ltd.,KOHINOOR,18463,Pharmaceuticals & Chemicals
+213,Khulna Power Company Limited,KPCL,15312,Fuel & Power
+214,Khulna Printing & Packaging Limited,KPPL,19511,Paper & Printing
+215,Kattali Textile Limited,KTL,17480,Textile
+216,LankaBangla Finance PLC,LANKABAFIN,11135,Financial Institutions
+217,Legacy Footwear Ltd.,LEGACYFOOT,23636,Tannery Industries
+218,LafargeHolcim Bangladesh Limited,LHBL,21643,Cement
+219,Libra Infusions Limited,LIBRAINFU,18471,Pharmaceuticals & Chemicals
+220,Linde Bangladesh Limited,LINDEBD,15301,Fuel & Power
+221,Taufika Foods and Lovello Ice-cream PLC,LOVELLO,14296,Food & Allied
+222,Lub-rref (Bangladesh) Limited,LRBDL,15323,Fuel & Power
+223,LR Global Bangladesh Mutual Fund One,LRGLOBMF1,12188,Mutual Funds
+224,Maksons Spinning Mills Limited,MAKSONSPIN,17448,Textile
+225,Malek Spinning Mills Ltd.,MALEKSPIN,17451,Textile
+226,Marico Bangladesh Limited,MARICO,18481,Pharmaceuticals & Chemicals
+227,Matin Spinning Mills PLC,MATINSPINN,17460,Textile
+228,MBL 1st Mutual Fund,MBL1STMF,12184,Mutual Funds
+229,Meghna Condensed Milk Industries Ltd.,MEGCONMILK,14290,Food & Allied
+230,Meghna Cement Mills Ltd.,MEGHNACEM,21622,Cement
+231,Meghna Insurance Company Limited,MEGHNAINS,25754,Insurance
+232,Meghna Life Insurance Co. Ltd.,MEGHNALIFE,25726,Insurance
+233,Meghna Pet Industries Ltd.,MEGHNAPET,14287,Food & Allied
+234,Mercantile Bank Ltd.,MERCANBANK,11128,Bank
+235,Mercantile Islami Insurance PLC,MERCINS,25721,Insurance
+236,Metro Spinning Ltd.,METROSPIN,17447,Textile
+237,Mozaffar Hossain Spinning Mills Ltd.,MHSML,17459,Textile
+238,MIDAS Financing Ltd.,MIDASFIN,11122,Financial Institutions
+239,Midland Bank Limited,MIDLANDBNK,11154,Bank
+240,Miracle Industries Ltd.,MIRACLEIND,99637,Miscellaneous
+241,Mir Akhter Hossain Limited,MIRAKHTER,13250,Engineering
+242,Mithun Knitting and Dyeing Ltd.,MITHUNKNIT,17424,Textile
+243,MJL Bangladesh PLC.,MJLBD,15314,Fuel & Power
+244,M.L. Dyeing Limited,MLDYEING,17479,Textile
+245,Monno Agro & General Machinery Limited,MONNOAGML,13209,Engineering
+246,Monno Ceramic Industries Ltd.,MONNOCERA,24606,Ceramics Sector
+247,Monno Fabrics Limited,MONNOFABR,17439,Textile
+248,Bangladesh Monospool Paper Manufacturing Co. Limited,MONOSPOOL,19505,Paper & Printing
+249,Meghna Petroleum Limited,MPETROLEUM,15310,Fuel & Power
+250,Mutual Trust Bank Ltd.,MTB,11123,Bank
+251,Nahee Aluminum Composite Panel Ltd.,NAHEEACP,13244,Engineering
+252,National Life Insurance Company Ltd.,NATLIFEINS,25712,Insurance
+253,Navana CNG Limited,NAVANACNG,13228,Engineering
+254,Navana Pharmaceuticals Limited,NAVANAPHAR,18497,Pharmaceuticals & Chemicals
+255,National Bank Ltd.,NBL,11105,Bank
+256,National Credit and Commerce Bank Ltd.,NCCBANK,11119,Bank
+257,NCCBL Mutual Fund-1,NCCBLMF1,12192,Mutual Funds
+258,New Line Clothings Limited,NEWLINE,17482,Textile
+259,National Feed Mill Limited,NFML,99640,Miscellaneous
+260,National Housing Fin. and Inv. Ltd.,NHFIL,20623,Financial Institutions
+261,Nitol Insurance Co. Ltd.,NITOLINS,25727,Insurance
+262,Northern Jute Manufacturing Co. Ltd.,NORTHERN,16357,Jute
+263,Northern Islami Insurance Limited,NORTHRNINS,25738,Insurance
+264,National Polymer Industries PLC.,NPOLYMER,13469,Engineering
+265,NRB Commercial Bank Limited,NRBCBANK,11150,Bank
+266,National Tea Company Ltd.,NTC,14263,Food & Allied
+267,National Tubes Limited,NTLTUBES,13218,Engineering
+268,Nurani Dyeing & Sweater Limited,NURANI,17475,Textile
+269,Olympic Accessories Limited,OAL,13239,Engineering
+270,Oimex Electrode Limited,OIMEX,13243,Engineering
+271,Olympic Industries Ltd.,OLYMPIC,13203,Food & Allied
+272,One Bank Limited,ONEBANKLTD,11126,Bank
+273,Orion Infusion Ltd.,ORIONINFU,18472,Pharmaceuticals & Chemicals
+274,Orion Pharma Ltd.,ORIONPHARM,18486,Pharmaceuticals & Chemicals
+275,Padma Islami Life Insurance Limited,PADMALIFE,25745,Insurance
+276,Padma Oil Co. Ltd.,PADMAOIL,15302,Fuel & Power
+277,Paper Processing & Packaging Limited,PAPERPROC,19506,Paper & Printing
+278,Paramount Insurance Company Ltd.,PARAMOUNT,25733,Insurance
+279,Pubali Bank Perpetual Bond,PBLPBOND,26010,Corporate Bond
+280,Pacific Denims Limited,PDL,17473,Textile
+281,The Peninsula Chittagong Limited,PENINSULA,29003,Travel & Leisure
+282,Peoples Insurance Company Ltd.,PEOPLESINS,25704,Insurance
+283,Phoenix Finance 1st Mutual Fund,PF1STMF,12176,Mutual Funds
+284,Pharma Aids,PHARMAID,18462,Pharmaceuticals & Chemicals
+285,Phoenix Insurance Company Ltd.,PHENIXINS,25707,Insurance
+286,Phoenix Finance and Investments Ltd.,PHOENIXFIN,11144,Financial Institutions
+287,PHP First Mutual Fund,PHPMF1,12182,Mutual Funds
+288,Pioneer Insurance Company Ltd.,PIONEERINS,25720,Insurance
+289,Peoples Leasing and Fin. Services Ltd.,PLFSL,11130,Financial Institutions
+290,Popular Life First Mutual Fund,POPULAR1MF,12180,Mutual Funds
+291,Popular Life Insurance Co. Ltd.,POPULARLIF,25724,Insurance
+292,Power Grid Company of Bangladesh Ltd.,POWERGRID,15308,Fuel & Power
+293,Pragati Insurance Ltd,PRAGATIINS,25717,Insurance
+294,Pragati Life Insurance Ltd.,PRAGATILIF,25731,Insurance
+295,Premier Bank Perpetual Bond,PREBPBOND,26009,Corporate Bond
+296,Premier Bank Ltd.,PREMIERBAN,11140,Bank
+297,Premier Cement Mills PLC,PREMIERCEM,21645,Cement
+298,Premier Leasing & Finance Limited,PREMIERLEA,11132,Financial Institutions
+299,Prime Bank 1st ICB AMCL Mutual Fund,PRIME1ICBA,12173,Mutual Funds
+300,Prime Bank Ltd.,PRIMEBANK,11116,Bank
+301,Prime Finance & Investment Ltd.,PRIMEFIN,11131,Financial Institutions
+302,Prime Insurance Company Ltd.,PRIMEINSUR,25719,Insurance
+303,Prime Islami Life Insurance Ltd.,PRIMELIFE,25732,Insurance
+304,Prime Textile Spinning Mills Limited,PRIMETEX,17434,Textile
+305,Progressive Life Insurance Co. Ltd.,PROGRESLIF,25728,Insurance
+306,Provati Insurance Company Limited,PROVATIINS,25743,Insurance
+307,Paramount Textile PLC.,PTL,17458,Textile
+308,Pubali Bank Ltd.,PUBALIBANK,11106,Bank
+309,Purabi Gen. Insurance Company Ltd.,PURABIGEN,25715,Insurance
+310,Quasem Industries Ltd.,QUASEMIND,13214,Engineering
+311,Queen South Textile Mills Limited,QUEENSOUTH,17476,Textile
+312,Rahima Food Corporation Limited,RAHIMAFOOD,14281,Food & Allied
+313,Rahim Textile Mills Ltd.,RAHIMTEXT,17410,Textile
+314,RAK Ceramics (Bangladesh) Limited,RAKCERAMIC,24634,Ceramics Sector
+315,Rangpur Foundry Ltd.,RANFOUNDRY,13224,Engineering
+316,Rangpur Dairy & Food Products Ltd.,RDFOOD,14293,Food & Allied
+317,Reckitt Benckiser (Bangladesh) PLC,RECKITTBEN,18460,Pharmaceuticals & Chemicals
+318,Regent Textile Mills Limited,REGENTTEX,17470,Textile
+319,Reliance One the first scheme of Reliance Insurance Mutual Fund,RELIANCE1,12187,Mutual Funds
+320,Reliance Insurance Ltd.,RELIANCINS,25714,Insurance
+321,Renata Ltd.,RENATA,18457,Pharmaceuticals & Chemicals
+322,Renwick Jajneswar & Co (Bd) Ltd.,RENWICKJA,13215,Engineering
+323,Republic Insurance Company Limited,REPUBLIC,25739,Insurance
+324,Ring Shine Textiles Limited,RINGSHINE,17483,Textile
+325,R.N. Spinning Mills Limited,RNSPIN,17450,Textile
+326,Robi Axiata Limited,ROBI,27003,Telecommunication
+327,Ratanpur Steel Re-Rolling Mills Limited,RSRMSTEEL,13235,Engineering
+328,Runner Automobiles PLC,RUNNERAUTO,13246,Engineering
+329,Rupali Bank Ltd.,RUPALIBANK,11107,Bank
+330,Rupali Insurance Company Ltd.,RUPALIINS,25711,Insurance
+331,Rupali Life Insurance Company Limited,RUPALILIFE,25741,Insurance
+332,Safko Spinnings Mills Ltd.,SAFKOSPINN,17445,Textile
+333,SAIF Powertec Limited,SAIFPOWER,20625,Services & Real Estate
+334,Saiham Cotton Mills Limited,SAIHAMCOT,17453,Textile
+335,Saiham Textile Mills Ltd.,SAIHAMTEX,17412,Textile
+336,S. Alam Cold Rolled Steels Ltd.,SALAMCRST,13225,Engineering
+337,Salvo Chemical Industry Limited,SALVOCHEM,18484,Pharmaceuticals & Chemicals
+338,Samata Leather Complex Ltd.,SAMATALETH,23634,Tannery Industries
+339,Samorita Hospital Limited,SAMORITA,20553,Services & Real Estate
+340,Sandhani Life Insurance Company Ltd.,SANDHANINS,25718,Insurance
+341,Summit Alliance Port Limited,SAPORTL,20622,Services & Real Estate
+342,Savar Refractories Limited,SAVAREFR,99611,Miscellaneous
+343,South Bangla Agriculture & Commerce Bank Limited,SBACBANK,11151,Bank
+344,Sea Pearl Beach Resort & Spa Limited,SEAPEARL,29004,Travel & Leisure
+345,SEML FBLSL Growth Fund,SEMLFBSLGF,12203,Mutual Funds
+346,SEML IBBL Shariah Fund,SEMLIBBLSF,12200,Mutual Funds
+347,SEML Lecture Equity Management Fund,SEMLLECMF,12196,Mutual Funds
+348,Shahjalal Islami Bank Ltd.,SHAHJABANK,11139,Bank
+349,Shasha Denims Limited,SHASHADNIM,17466,Textile
+350,Shepherd Industries PLC,SHEPHERD,17474,Textile
+351,Shurwid Industries Limited,SHURWID,13234,Engineering
+352,Shyampur Sugar Mills Ltd.,SHYAMPSUG,14279,Food & Allied
+353,Social Islami Bank Limited,SIBL,11120,Bank
+354,Silco Pharmaceuticals Limited,SILCOPHL,18495,Pharmaceuticals & Chemicals
+355,Silva Pharmaceuticals Limited,SILVAPHL,18493,Pharmaceuticals & Chemicals
+356,Simtex Industries Limited,SIMTEX,17469,Textile
+357,Singer Bangladesh Limited,SINGERBD,13211,Engineering
+358,Sinobangla Industries Ltd.,SINOBANGLA,99635,Miscellaneous
+359,SJIBL Mudaraba Perpetual Bond,SJIBLPBOND,26007,Corporate Bond
+360,Sena Kalyan Insurance Company Limited,SKICL,25752,Insurance
+361,SK Trims & Industries Limited,SKTRIMS,99642,Miscellaneous
+362,Sonali Aansh Industries Limited,SONALIANSH,16360,Jute
+363,Sonali Life Insurance Company Limited,SONALILIFE,25751,Insurance
+364,Sonali Paper & Board Mills Ltd.,SONALIPAPR,19503,Paper & Printing
+365,Sonar Bangla Insurance Ltd.,SONARBAINS,25730,Insurance
+366,Sonargaon Textiles Ltd.,SONARGAON,17430,Textile
+367,Southeast Bank Ltd.,SOUTHEASTB,11117,Bank
+368,Shinepukur Ceramics Limited,SPCERAMICS,24633,Ceramics Sector
+369,Shahjibazar Power Co. Ltd.,SPCL,15317,Fuel & Power
+370,Square Textiles Ltd.,SQUARETEXT,17446,Textile
+371,Square Pharmaceuticals Ltd.,SQURPHARMA,18473,Pharmaceuticals & Chemicals
+372,S. S. Steel Limited,SSSTEEL,13245,Engineering
+373,Standard Ceramic Industries Ltd.,STANCERAM,24626,Ceramics Sector
+374,Standard Insurance Limited,STANDARINS,25737,Insurance
+375,Standard Bank Limited,STANDBANKL,11125,Bank
+376,Stylecraft Limited,STYLECRAFT,17408,Textile
+377,Summit Power Limited,SUMITPOWER,15306,Fuel & Power
+378,Sunlife Insurance Company Limited,SUNLIFEINS,25746,Insurance
+379,Takaful Islami Insurance Limited,TAKAFULINS,25736,Insurance
+380,Tallu Spinning Mills Ltd.,TALLUSPIN,17417,Textile
+381,Tamijuddin Textile Mills PLC,TAMIJTEX,17419,Textile
+382,Trust Islami Life Insurance Limited,TILIL,25757,Insurance
+383,Titas Gas Transmission & Dist. Co. Ltd.,TITASGAS,15311,Fuel & Power
+384,Tosrifa Industries Limited,TOSRIFA,17468,Textile
+385,Trust Bank 1st Mutual Fund,TRUSTB1MF,12172,Mutual Funds
+386,Trust Bank Limited,TRUSTBANK,11145,Bank
+387,Tung Hai Knitting & Dyeing Limited,TUNGHAI,17463,Textile
+388,United Commercial Bank Ltd.,UCB,11108,Bank
+389,Unilever Consumer Care Limited,UNILEVERCL,18454,Food & Allied
+390,Union Bank Limited,UNIONBANK,11152,Bank
+391,Union Capital Limited,UNIONCAP,11141,Financial Institutions
+392,Union Insurance Company Limited,UNIONINS,25753,Insurance
+393,Unique Hotel & Resorts PLC,UNIQUEHRL,29002,Travel & Leisure
+394,United Finance Limited,UNITEDFIN,11113,Financial Institutions
+395,United Insurance Company Ltd.,UNITEDINS,25703,Insurance
+396,United Power Generation & Distribution Company Ltd.,UPGDCL,15318,Fuel & Power
+397,Usmania Glass Sheet Factory Limited,USMANIAGL,99608,Miscellaneous
+398,Uttara Bank Limited,UTTARABANK,11109,Bank
+399,Uttara Finance and Investments Limited,UTTARAFIN,11114,Financial Institutions
+400,Vanguard AML BD Finance Mutual Fund One,VAMLBDMF1,12197,Mutual Funds
+401,Vanguard AML Rupali Bank Balanced Fund,VAMLRBBF,12198,Mutual Funds
+402,VFS Thread Dyeing Limited,VFSTDL,17478,Textile
+403,Walton Hi-Tech Industries PLC,WALTONHIL,13248,Engineering
+404,Wata Chemicals Limited,WATACHEM,18467,Pharmaceuticals & Chemicals
+405,Western Marine Shipyard Limited,WMSHIPYARD,13236,Engineering
+406,Yeakin Polymer Limited,YPL,13241,Engineering
+407,Zaheen Spinning Limited,ZAHEENSPIN,17467,Textile
+408,Zahintex Industries Limited,ZAHINTEX,17452,Textile
+409,Zeal Bangla Sugar Mills Ltd.,ZEALBANGLA,14266,Food & Allied
+410,First Janata Bank Mutual Fund,1JANATAMF,12178,Mutual Funds
+411,Prime Finance First Mutual Fund,1STPRIMFMF,12168,Mutual Funds
