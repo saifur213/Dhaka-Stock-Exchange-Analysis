@@ -41,8 +41,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'webScraping',
+    'webscraping',
     'rest_framework',
+    'Stream',
 
 ]
 

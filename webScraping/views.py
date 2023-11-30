@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from webScraping.models import company_details,company_other_info
+from webscraping.models import company_details,company_other_info
+import os
+# from decouple import config
 
 
 import requests
@@ -164,21 +166,22 @@ def storDataPostgres(request):
     cursor = conn.cursor()
     # cursor.execute(
     # """
-    # CREATE TABLE IF NOT EXISTS webScraping_company_details(CompanyName VARCHAR(100),TradingCode VARCHAR(50), ScripCode CHAR(5), Sector VARCHAR(100))
+    # CREATE TABLE IF NOT EXISTS webScraping_company_details(ID INTEGER, CompanyName VARCHAR(100),TradingCode VARCHAR(50), ScripCode CHAR(5), Sector VARCHAR(100))
     # """)
     company_details.objects.all().delete()
     with open("data/company_details.csv","r") as f:
         reader = csv.reader(f)
         next(reader)
         for row in reader:
-           print(row[0])
+           #print(row[0])
            company = company_details(ID=row[0], CompanyName=row[1], TradingCode=row[2],ScripCode=row[3],Sector=row[4])
            company.save()
-            # cursor.execute(
-            #     "INSERT INTO webScraping_company_details VALUES (%s,%s,%s,%s,%s)",
-            #     row
-            # )
-    print("Data Inserted in webScraping_company_details Table Successfully")
+        #    cursor.execute(
+        #         "INSERT INTO webscraping_company_details VALUES (%s,%s,%s,%s,%s)",
+        #         row
+        #     )
+    print("Data Inserted in company_details Table Successfully")
+   
 
     company_other_info.objects.all().delete()
 
@@ -194,12 +197,13 @@ def storDataPostgres(request):
            i = i+1
            company_info = company_other_info(id=i,ID=row[0], TradingCode=row[1], Date=row[2],SponsorDirector=row[3],Govt=row[4],Institute=row[5],ForeignNum=row[6],Public=row[7])
            company_info.save()
-            # cursor.execute(
-            #     "INSERT INTO webScraping_company_other_info VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
-            #     row
-            # )
+        #    cursor.execute(
+        #         "INSERT INTO webscraping_company_other_info VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
+        #         row
+        #     )
     print("Data Inserted in webScraping_company_other_info Table Successfully")
     return HttpResponse("<h2>Store data successfully.</h2>")
+
 
 def streamlit_dashboard(request):
     return render(request, 'dashboard/dashboard.html')

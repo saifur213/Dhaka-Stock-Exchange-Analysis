@@ -1,6 +1,6 @@
 from django.contrib import admin
-from webScraping.models import company_details
-from webScraping.models import company_other_info
+from webscraping.models import company_details
+from webscraping.models import company_other_info
 # Register your models here.
 # class CompanyDetailsAdmin(admin.ModelAdmin):
 #     list_display = ('CompanyName','TradingCode','ScripCode','Sector')

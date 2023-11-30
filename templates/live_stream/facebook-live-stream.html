@@ -1,0 +1,57 @@
+{% extends 'common_code/base.html'%}
+{% block title %}Machine Learning {% endblock title %}
+{% block body %}
+
+{% load static %}
+       <h1>Facebook Live Stream Started!</h1>
+       
+       <p>Stream ID: {{ stream_id }}</p>
+       {% comment %} <p>Stream Url: {{ stream_url }}</p> {% endcomment %}
+       
+
+       <!-- Display the Facebook Live stream using the stream_id -->
+       <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/{{ stream_id }}/" data-width="800" data-show-text="false"></div>
+
+       <!-- Stop stream button -->
+       <button onclick="stopStream('{{ stream_id }}')">Stop Stream</button>
+
+       <!-- Include the Facebook JavaScript SDK -->
+       <script>
+       window.fbAsyncInit = function() {
+              FB.init({
+              appId      : '119171507898458',
+              xfbml      : true,
+              version    : 'v13.0'
+              });
+       };
+
+       function stopStream(streamId) {
+              // Make an API call to stop the live stream using the streamId
+              FB.api(
+              `/${streamId}`,
+              'DELETE',
+              function (response) {
+                     if (response.success) {
+                     // Stream stopped successfully
+                     console.log('Stream stopped');
+                     } else {
+                     // Handle error if the stream failed to stop
+                     console.error(response.error.message);
+                     }
+              }
+              );
+       }
+
+       (function(d, s, id){
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) {return;}
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0&appId=119171507898458&autoLogAppEvents=1";
+              fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+       </script>
+
+       <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0"></script>
+         
+        
+{% endblock %}  

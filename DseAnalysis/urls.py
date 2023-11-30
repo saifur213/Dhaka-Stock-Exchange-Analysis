@@ -20,6 +20,7 @@ from django.urls import path,include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',include('webScraping.urls')),
+    path('',include('webscraping.urls')),
+    path('live-stream/',include('Stream.urls')),
     
 ]
